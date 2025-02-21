@@ -4,6 +4,7 @@
     {
         AwaitingDelivery = 1,
         DeliveryInProgress = 2,
-        Delivered = 3
+        Delivered = 3,
+        Cancelled = 4
     }
 }
