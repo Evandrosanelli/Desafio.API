@@ -10,5 +10,7 @@ namespace Desafio.API.Interfaces.Repository
         public Task<Drone> FindById(long id);
         public Task<Drone> Create(Drone drone);
         public Task Update(Drone drone);
+        public Task UpdateRangeAsync(IEnumerable<Drone> pedido);
+
     }
 }

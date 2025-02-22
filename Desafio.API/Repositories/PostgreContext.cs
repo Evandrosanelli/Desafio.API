@@ -1,4 +1,5 @@
 ﻿using Desafio.API.Entities;
+using Desafio.API.Repositories.Seeds;
 using Microsoft.EntityFrameworkCore;
 
 namespace Desafio.API.Repositories
@@ -23,6 +24,20 @@ namespace Desafio.API.Repositories
             {
                 optionsBuilder.UseNpgsql("Host=localhost;Port=5432;Database=banco;Username=docker;Password=docker");
             }
+        }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
+            var drones = DorneSeeds.GetSeedsDrones();
+            var pedidos = PedidoSeeds.GetSeedsPedidos();
+            var statusDrones = StatusSeeds.GetSeedsStatusDrone();
+            var statusPedidos = StatusSeeds.GetSeedsStatusPedido();
+
+            modelBuilder.Entity<Drone>().HasData(drones);
+            modelBuilder.Entity<Pedido>().HasData(pedidos);
+            modelBuilder.Entity<StatusDrone>().HasData(statusDrones);
+            modelBuilder.Entity<StatusPedido>().HasData(statusPedidos);
         }
     }
 }

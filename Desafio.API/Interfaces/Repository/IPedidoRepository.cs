@@ -11,5 +11,6 @@ namespace Desafio.API.Interfaces.Repository
         public Task<Pedido> FindById(long id);
         public Task<Pedido> Create(Pedido pedido);
         public Task Update(Pedido pedido);
+        public Task UpdateRangeAsync(IEnumerable<Pedido> pedido);
     }
 }

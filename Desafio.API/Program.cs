@@ -18,6 +18,7 @@ builder.Services.AddScoped<IStatusPedidoRepository,StatusPedidoRepository>();
 builder.Services.AddScoped<IStatusDroneRepository,StatusDroneRepository>();
 builder.Services.AddScoped<IPedidoRepository,PedidoRepository>();
 builder.Services.AddScoped<IDroneRepository,DroneRepository>();
+builder.Services.AddScoped<IEntregaRepository,EntregaRepository>();
 #endregion
 
 #region Services
@@ -25,6 +26,7 @@ builder.Services.AddScoped<IStatusPedidoService, StatusPedidoService>();
 builder.Services.AddScoped<IStatusDroneService, StatusDroneService>();
 builder.Services.AddScoped<IPedidoService, PedidoService>();
 builder.Services.AddScoped<IDroneService, DroneService>();
+builder.Services.AddScoped<IEntregaService, EntregaService>();
 #endregion
 
 var app = builder.Build();

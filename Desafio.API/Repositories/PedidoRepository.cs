@@ -35,5 +35,11 @@ namespace Desafio.API.Repositories
             _context.Pedido.Update(pedido);
             await _context.SaveChangesAsync();
         }
+
+        public async Task UpdateRangeAsync(IEnumerable<Pedido> pedidos)
+        {
+            _context.Pedido.UpdateRange(pedidos);
+            await _context.SaveChangesAsync();
+        }
     }
 }

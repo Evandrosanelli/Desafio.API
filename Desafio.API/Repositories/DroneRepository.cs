@@ -35,5 +35,10 @@ namespace Desafio.API.Repositories
             _context.Drone.Update(drone);
             await _context.SaveChangesAsync();
         }
+        public async Task UpdateRangeAsync(IEnumerable<Drone> drones)
+        {
+            _context.Drone.UpdateRange(drones);
+            await _context.SaveChangesAsync();
+        }
     }
 }

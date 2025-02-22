@@ -1,5 +1,4 @@
-﻿using Desafio.API.Entities;
-using Desafio.API.Interfaces.Service;
+﻿using Desafio.API.Interfaces.Service;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Desafio.API.Controllers
@@ -13,6 +12,15 @@ namespace Desafio.API.Controllers
         {
             _entregaService = entregaService ?? throw new ArgumentNullException(nameof(entregaService));
         }
-        
+        [HttpPost]
+        public async Task<IActionResult> AllocateDrones()
+        {
+            return Ok(await _entregaService.AllocateDrones());
+        }
+        [HttpGet]
+        public async Task<IActionResult> SearchDeliveriesInProgress()
+        {
+            return Ok(await _entregaService.SearchDeliveriesInProgress());
+        }
     }
 }
