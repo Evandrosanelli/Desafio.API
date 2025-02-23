@@ -65,6 +65,9 @@ namespace Desafio.API.Services
             var drone = await _droneRepository.FindById(id);
             try
             {
+                if (drone is null)
+                    throw new Exception("Drone não localizado");
+
                 drone.StatusDroneId = status;
                 drone.Latitude = latitude;
                 drone.Latitude = longitude;

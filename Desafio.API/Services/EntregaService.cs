@@ -67,7 +67,7 @@ namespace Desafio.API.Services
             
             return entregas.ToList();
         }
-        private Drone SearchDroneCloser(HashSet<Drone> drones, Pedido pedido)
+        public Drone SearchDroneCloser(HashSet<Drone> drones, Pedido pedido)
         {
             //Estrutura de dados que armazena os dados junto de uma prioridade,e permite obter o elemento com a menor ou maior prioridade
             var heap = new PriorityQueue<Drone, double>();
@@ -81,7 +81,7 @@ namespace Desafio.API.Services
             //Retorna o elemento com a maior prioridade (no caso a menor distancia)
             return heap.Dequeue();
         }
-        private static double CalculateApproximateDistance(Drone drone, Pedido pedido)
+        public double CalculateApproximateDistance(Drone drone, Pedido pedido)
         {
             //Calculo simplificado para obter a distancia entre as coordenadas, este calculo possui menor
             //precisao em grandes distancias e proximo aos polos porem para o proposito da aplicação acredito ser viavel
@@ -93,7 +93,7 @@ namespace Desafio.API.Services
             // Aproximação: 1 grau ≈ 111,32 km
             return Math.Sqrt(dx * dx + dy * dy) * 111.32;
         }
-        private async Task DataBaseUpdate(HashSet<Drone> drones, HashSet<Pedido> pedidos, HashSet<Entrega> entregas)
+        public async Task DataBaseUpdate(HashSet<Drone> drones, HashSet<Pedido> pedidos, HashSet<Entrega> entregas)
         {
             //Atualiza os status dos drones e pedidos de uma unica vez e tambem inclui as entregas no banco de dados
             if (drones.Any())

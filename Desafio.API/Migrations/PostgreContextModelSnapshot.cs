@@ -118,140 +118,140 @@ namespace Desafio.API.Migrations
                             Id = 11L,
                             Latitude = -30.0277m,
                             Longitude = -51.2287m,
-                            StatusDroneId = 3
+                            StatusDroneId = 1
                         },
                         new
                         {
                             Id = 12L,
                             Latitude = -29.5583m,
                             Longitude = -50.7921m,
-                            StatusDroneId = 3
+                            StatusDroneId = 1
                         },
                         new
                         {
                             Id = 13L,
                             Latitude = -31.0524m,
                             Longitude = -52.3944m,
-                            StatusDroneId = 3
+                            StatusDroneId = 1
                         },
                         new
                         {
                             Id = 14L,
                             Latitude = -29.7477m,
                             Longitude = -52.4112m,
-                            StatusDroneId = 3
+                            StatusDroneId = 1
                         },
                         new
                         {
                             Id = 15L,
                             Latitude = -30.4566m,
                             Longitude = -54.0653m,
-                            StatusDroneId = 3
+                            StatusDroneId = 1
                         },
                         new
                         {
                             Id = 16L,
                             Latitude = -28.2354m,
                             Longitude = -52.7974m,
-                            StatusDroneId = 3
+                            StatusDroneId = 1
                         },
                         new
                         {
                             Id = 17L,
                             Latitude = -29.7232m,
                             Longitude = -51.2421m,
-                            StatusDroneId = 3
+                            StatusDroneId = 1
                         },
                         new
                         {
                             Id = 18L,
                             Latitude = -30.2023m,
                             Longitude = -56.4502m,
-                            StatusDroneId = 3
+                            StatusDroneId = 1
                         },
                         new
                         {
                             Id = 19L,
                             Latitude = -28.9821m,
                             Longitude = -50.1112m,
-                            StatusDroneId = 3
+                            StatusDroneId = 1
                         },
                         new
                         {
                             Id = 20L,
                             Latitude = -29.8872m,
                             Longitude = -53.5521m,
-                            StatusDroneId = 3
+                            StatusDroneId = 1
                         },
                         new
                         {
                             Id = 21L,
                             Latitude = -30.0012m,
                             Longitude = -51.3087m,
-                            StatusDroneId = 2
+                            StatusDroneId = 1
                         },
                         new
                         {
                             Id = 22L,
                             Latitude = -29.5683m,
                             Longitude = -53.1921m,
-                            StatusDroneId = 2
+                            StatusDroneId = 1
                         },
                         new
                         {
                             Id = 23L,
                             Latitude = -31.6224m,
                             Longitude = -52.7544m,
-                            StatusDroneId = 2
+                            StatusDroneId = 1
                         },
                         new
                         {
                             Id = 24L,
                             Latitude = -29.8477m,
                             Longitude = -52.9112m,
-                            StatusDroneId = 2
+                            StatusDroneId = 1
                         },
                         new
                         {
                             Id = 25L,
                             Latitude = -30.3766m,
                             Longitude = -54.1653m,
-                            StatusDroneId = 2
+                            StatusDroneId = 1
                         },
                         new
                         {
                             Id = 26L,
                             Latitude = -28.5354m,
                             Longitude = -52.1974m,
-                            StatusDroneId = 2
+                            StatusDroneId = 1
                         },
                         new
                         {
                             Id = 27L,
                             Latitude = -29.7232m,
                             Longitude = -51.7421m,
-                            StatusDroneId = 2
+                            StatusDroneId = 1
                         },
                         new
                         {
                             Id = 28L,
                             Latitude = -30.9023m,
                             Longitude = -56.9502m,
-                            StatusDroneId = 2
+                            StatusDroneId = 1
                         },
                         new
                         {
                             Id = 29L,
                             Latitude = -28.1921m,
                             Longitude = -50.6112m,
-                            StatusDroneId = 2
+                            StatusDroneId = 1
                         },
                         new
                         {
                             Id = 30L,
                             Latitude = -29.5872m,
                             Longitude = -53.9521m,
-                            StatusDroneId = 2
+                            StatusDroneId = 1
                         },
                         new
                         {
@@ -328,140 +328,140 @@ namespace Desafio.API.Migrations
                             Id = 41L,
                             Latitude = -30.1277m,
                             Longitude = -51.9287m,
-                            StatusDroneId = 3
+                            StatusDroneId = 1
                         },
                         new
                         {
                             Id = 42L,
                             Latitude = -29.2583m,
                             Longitude = -50.2921m,
-                            StatusDroneId = 3
+                            StatusDroneId = 1
                         },
                         new
                         {
                             Id = 43L,
                             Latitude = -31.6524m,
                             Longitude = -52.9944m,
-                            StatusDroneId = 3
+                            StatusDroneId = 1
                         },
                         new
                         {
                             Id = 44L,
                             Latitude = -29.1477m,
                             Longitude = -52.1112m,
-                            StatusDroneId = 3
+                            StatusDroneId = 1
                         },
                         new
                         {
                             Id = 45L,
                             Latitude = -30.2566m,
                             Longitude = -54.3653m,
-                            StatusDroneId = 3
+                            StatusDroneId = 1
                         },
                         new
                         {
                             Id = 46L,
                             Latitude = -28.1354m,
                             Longitude = -52.4974m,
-                            StatusDroneId = 3
+                            StatusDroneId = 1
                         },
                         new
                         {
                             Id = 47L,
                             Latitude = -29.3232m,
                             Longitude = -51.4421m,
-                            StatusDroneId = 3
+                            StatusDroneId = 1
                         },
                         new
                         {
                             Id = 48L,
                             Latitude = -30.1023m,
                             Longitude = -56.7502m,
-                            StatusDroneId = 3
+                            StatusDroneId = 1
                         },
                         new
                         {
                             Id = 49L,
                             Latitude = -28.5821m,
                             Longitude = -50.3112m,
-                            StatusDroneId = 3
+                            StatusDroneId = 1
                         },
                         new
                         {
                             Id = 50L,
                             Latitude = -29.6872m,
                             Longitude = -53.2521m,
-                            StatusDroneId = 3
+                            StatusDroneId = 1
                         },
                         new
                         {
                             Id = 51L,
                             Latitude = -30.7012m,
                             Longitude = -51.8087m,
-                            StatusDroneId = 2
+                            StatusDroneId = 1
                         },
                         new
                         {
                             Id = 52L,
                             Latitude = -29.0683m,
                             Longitude = -53.9921m,
-                            StatusDroneId = 2
+                            StatusDroneId = 1
                         },
                         new
                         {
                             Id = 53L,
                             Latitude = -31.3224m,
                             Longitude = -52.4544m,
-                            StatusDroneId = 2
+                            StatusDroneId = 1
                         },
                         new
                         {
                             Id = 54L,
                             Latitude = -29.4477m,
                             Longitude = -52.1112m,
-                            StatusDroneId = 2
+                            StatusDroneId = 1
                         },
                         new
                         {
                             Id = 55L,
                             Latitude = -30.2766m,
                             Longitude = -54.0653m,
-                            StatusDroneId = 2
+                            StatusDroneId = 1
                         },
                         new
                         {
                             Id = 56L,
                             Latitude = -28.9354m,
                             Longitude = -52.6974m,
-                            StatusDroneId = 2
+                            StatusDroneId = 1
                         },
                         new
                         {
                             Id = 57L,
                             Latitude = -29.4232m,
                             Longitude = -51.9421m,
-                            StatusDroneId = 2
+                            StatusDroneId = 1
                         },
                         new
                         {
                             Id = 58L,
                             Latitude = -30.5023m,
                             Longitude = -56.4502m,
-                            StatusDroneId = 2
+                            StatusDroneId = 1
                         },
                         new
                         {
                             Id = 59L,
                             Latitude = -28.1921m,
                             Longitude = -50.4112m,
-                            StatusDroneId = 2
+                            StatusDroneId = 1
                         },
                         new
                         {
                             Id = 60L,
                             Latitude = -29.8872m,
                             Longitude = -53.6521m,
-                            StatusDroneId = 2
+                            StatusDroneId = 1
                         },
                         new
                         {
@@ -538,140 +538,140 @@ namespace Desafio.API.Migrations
                             Id = 71L,
                             Latitude = -30.8277m,
                             Longitude = -51.5287m,
-                            StatusDroneId = 3
+                            StatusDroneId = 1
                         },
                         new
                         {
                             Id = 72L,
                             Latitude = -29.3583m,
                             Longitude = -50.4921m,
-                            StatusDroneId = 3
+                            StatusDroneId = 1
                         },
                         new
                         {
                             Id = 73L,
                             Latitude = -31.8524m,
                             Longitude = -52.1944m,
-                            StatusDroneId = 3
+                            StatusDroneId = 1
                         },
                         new
                         {
                             Id = 74L,
                             Latitude = -29.2477m,
                             Longitude = -52.3112m,
-                            StatusDroneId = 3
+                            StatusDroneId = 1
                         },
                         new
                         {
                             Id = 75L,
                             Latitude = -30.1566m,
                             Longitude = -54.2653m,
-                            StatusDroneId = 3
+                            StatusDroneId = 1
                         },
                         new
                         {
                             Id = 76L,
                             Latitude = -28.6354m,
                             Longitude = -52.3974m,
-                            StatusDroneId = 3
+                            StatusDroneId = 1
                         },
                         new
                         {
                             Id = 77L,
                             Latitude = -29.8232m,
                             Longitude = -51.1421m,
-                            StatusDroneId = 3
+                            StatusDroneId = 1
                         },
                         new
                         {
                             Id = 78L,
                             Latitude = -30.3023m,
                             Longitude = -56.1502m,
-                            StatusDroneId = 3
+                            StatusDroneId = 1
                         },
                         new
                         {
                             Id = 79L,
                             Latitude = -28.4921m,
                             Longitude = -50.2112m,
-                            StatusDroneId = 3
+                            StatusDroneId = 1
                         },
                         new
                         {
                             Id = 80L,
                             Latitude = -29.4872m,
                             Longitude = -53.3521m,
-                            StatusDroneId = 3
+                            StatusDroneId = 1
                         },
                         new
                         {
                             Id = 81L,
                             Latitude = -30.0012m,
                             Longitude = -51.1087m,
-                            StatusDroneId = 2
+                            StatusDroneId = 1
                         },
                         new
                         {
                             Id = 82L,
                             Latitude = -29.9683m,
                             Longitude = -53.2921m,
-                            StatusDroneId = 2
+                            StatusDroneId = 1
                         },
                         new
                         {
                             Id = 83L,
                             Latitude = -31.8224m,
                             Longitude = -52.5544m,
-                            StatusDroneId = 2
+                            StatusDroneId = 1
                         },
                         new
                         {
                             Id = 84L,
                             Latitude = -29.0477m,
                             Longitude = -52.0112m,
-                            StatusDroneId = 2
+                            StatusDroneId = 1
                         },
                         new
                         {
                             Id = 85L,
                             Latitude = -30.8766m,
                             Longitude = -54.9653m,
-                            StatusDroneId = 2
+                            StatusDroneId = 1
                         },
                         new
                         {
                             Id = 86L,
                             Latitude = -28.7354m,
                             Longitude = -52.5974m,
-                            StatusDroneId = 2
+                            StatusDroneId = 1
                         },
                         new
                         {
                             Id = 87L,
                             Latitude = -29.6232m,
                             Longitude = -51.8421m,
-                            StatusDroneId = 2
+                            StatusDroneId = 1
                         },
                         new
                         {
                             Id = 88L,
                             Latitude = -30.0023m,
                             Longitude = -56.8502m,
-                            StatusDroneId = 2
+                            StatusDroneId = 1
                         },
                         new
                         {
                             Id = 89L,
                             Latitude = -28.2921m,
                             Longitude = -50.5112m,
-                            StatusDroneId = 2
+                            StatusDroneId = 1
                         },
                         new
                         {
                             Id = 90L,
                             Latitude = -29.1872m,
                             Longitude = -53.7521m,
-                            StatusDroneId = 2
+                            StatusDroneId = 1
                         },
                         new
                         {
@@ -798,21 +798,21 @@ namespace Desafio.API.Migrations
                             Id = 2L,
                             Latitude = -30.0446m,
                             Longitude = -51.2277m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 3L,
                             Latitude = -30.0546m,
                             Longitude = -51.2377m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 4L,
                             Latitude = -30.0646m,
                             Longitude = -51.2477m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -826,21 +826,21 @@ namespace Desafio.API.Migrations
                             Id = 6L,
                             Latitude = -30.0846m,
                             Longitude = -51.2677m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 7L,
                             Latitude = -30.0946m,
                             Longitude = -51.2777m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 8L,
                             Latitude = -30.1046m,
                             Longitude = -51.2877m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -854,21 +854,21 @@ namespace Desafio.API.Migrations
                             Id = 10L,
                             Latitude = -30.1246m,
                             Longitude = -51.3077m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 11L,
                             Latitude = -30.1346m,
                             Longitude = -51.3177m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 12L,
                             Latitude = -30.1446m,
                             Longitude = -51.3277m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -882,21 +882,21 @@ namespace Desafio.API.Migrations
                             Id = 14L,
                             Latitude = -30.1646m,
                             Longitude = -51.3477m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 15L,
                             Latitude = -30.1746m,
                             Longitude = -51.3577m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 16L,
                             Latitude = -30.1846m,
                             Longitude = -51.3677m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -910,21 +910,21 @@ namespace Desafio.API.Migrations
                             Id = 18L,
                             Latitude = -30.2046m,
                             Longitude = -51.3877m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 19L,
                             Latitude = -30.2146m,
                             Longitude = -51.3977m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 20L,
                             Latitude = -30.2246m,
                             Longitude = -51.4077m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -938,21 +938,21 @@ namespace Desafio.API.Migrations
                             Id = 22L,
                             Latitude = -30.2446m,
                             Longitude = -51.4277m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 23L,
                             Latitude = -30.2546m,
                             Longitude = -51.4377m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 24L,
                             Latitude = -30.2646m,
                             Longitude = -51.4477m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -966,21 +966,21 @@ namespace Desafio.API.Migrations
                             Id = 26L,
                             Latitude = -30.2846m,
                             Longitude = -51.4677m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 27L,
                             Latitude = -30.2946m,
                             Longitude = -51.4777m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 28L,
                             Latitude = -30.3046m,
                             Longitude = -51.4877m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -994,21 +994,21 @@ namespace Desafio.API.Migrations
                             Id = 30L,
                             Latitude = -30.3246m,
                             Longitude = -51.5077m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 31L,
                             Latitude = -30.3346m,
                             Longitude = -51.5177m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 32L,
                             Latitude = -30.3446m,
                             Longitude = -51.5277m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -1022,21 +1022,21 @@ namespace Desafio.API.Migrations
                             Id = 34L,
                             Latitude = -30.3646m,
                             Longitude = -51.5477m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 35L,
                             Latitude = -30.3746m,
                             Longitude = -51.5577m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 36L,
                             Latitude = -30.3846m,
                             Longitude = -51.5677m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -1050,21 +1050,21 @@ namespace Desafio.API.Migrations
                             Id = 38L,
                             Latitude = -30.4046m,
                             Longitude = -51.5877m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 39L,
                             Latitude = -30.4146m,
                             Longitude = -51.5977m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 40L,
                             Latitude = -30.4246m,
                             Longitude = -51.6077m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -1078,21 +1078,21 @@ namespace Desafio.API.Migrations
                             Id = 42L,
                             Latitude = -30.4446m,
                             Longitude = -51.6277m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 43L,
                             Latitude = -30.4546m,
                             Longitude = -51.6377m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 44L,
                             Latitude = -30.4646m,
                             Longitude = -51.6477m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -1106,21 +1106,21 @@ namespace Desafio.API.Migrations
                             Id = 46L,
                             Latitude = -30.4846m,
                             Longitude = -51.6677m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 47L,
                             Latitude = -30.4946m,
                             Longitude = -51.6777m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 48L,
                             Latitude = -30.5046m,
                             Longitude = -51.6877m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -1134,21 +1134,21 @@ namespace Desafio.API.Migrations
                             Id = 50L,
                             Latitude = -30.5246m,
                             Longitude = -51.7077m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 51L,
                             Latitude = -30.5346m,
                             Longitude = -51.7177m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 52L,
                             Latitude = -30.5446m,
                             Longitude = -51.7277m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -1162,21 +1162,21 @@ namespace Desafio.API.Migrations
                             Id = 54L,
                             Latitude = -30.5646m,
                             Longitude = -51.7477m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 55L,
                             Latitude = -30.5746m,
                             Longitude = -51.7577m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 56L,
                             Latitude = -30.5846m,
                             Longitude = -51.7677m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -1190,21 +1190,21 @@ namespace Desafio.API.Migrations
                             Id = 58L,
                             Latitude = -30.6046m,
                             Longitude = -51.7877m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 59L,
                             Latitude = -30.6146m,
                             Longitude = -51.7977m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 60L,
                             Latitude = -30.6246m,
                             Longitude = -51.8077m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -1218,21 +1218,21 @@ namespace Desafio.API.Migrations
                             Id = 62L,
                             Latitude = -30.6446m,
                             Longitude = -51.8277m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 63L,
                             Latitude = -30.6546m,
                             Longitude = -51.8377m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 64L,
                             Latitude = -30.6646m,
                             Longitude = -51.8477m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -1246,21 +1246,21 @@ namespace Desafio.API.Migrations
                             Id = 66L,
                             Latitude = -30.6846m,
                             Longitude = -51.8677m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 67L,
                             Latitude = -30.6946m,
                             Longitude = -51.8777m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 68L,
                             Latitude = -30.7046m,
                             Longitude = -51.8877m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -1274,21 +1274,21 @@ namespace Desafio.API.Migrations
                             Id = 70L,
                             Latitude = -30.7246m,
                             Longitude = -51.9077m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 71L,
                             Latitude = -30.7346m,
                             Longitude = -51.9177m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 72L,
                             Latitude = -30.7446m,
                             Longitude = -51.9277m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -1302,21 +1302,21 @@ namespace Desafio.API.Migrations
                             Id = 74L,
                             Latitude = -30.7646m,
                             Longitude = -51.9477m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 75L,
                             Latitude = -30.7746m,
                             Longitude = -51.9577m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 76L,
                             Latitude = -30.7846m,
                             Longitude = -51.9677m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -1330,21 +1330,21 @@ namespace Desafio.API.Migrations
                             Id = 78L,
                             Latitude = -30.8046m,
                             Longitude = -51.9877m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 79L,
                             Latitude = -30.8146m,
                             Longitude = -51.9977m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 80L,
                             Latitude = -30.8246m,
                             Longitude = -52.0077m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -1358,21 +1358,21 @@ namespace Desafio.API.Migrations
                             Id = 82L,
                             Latitude = -30.8446m,
                             Longitude = -52.0277m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 83L,
                             Latitude = -30.8546m,
                             Longitude = -52.0377m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 84L,
                             Latitude = -30.8646m,
                             Longitude = -52.0477m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -1386,21 +1386,21 @@ namespace Desafio.API.Migrations
                             Id = 86L,
                             Latitude = -30.8846m,
                             Longitude = -52.0677m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 87L,
                             Latitude = -30.8946m,
                             Longitude = -52.0777m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 88L,
                             Latitude = -30.9046m,
                             Longitude = -52.0877m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -1414,21 +1414,21 @@ namespace Desafio.API.Migrations
                             Id = 90L,
                             Latitude = -30.9246m,
                             Longitude = -52.1077m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 91L,
                             Latitude = -30.9346m,
                             Longitude = -52.1177m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 92L,
                             Latitude = -30.9446m,
                             Longitude = -52.1277m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -1442,21 +1442,21 @@ namespace Desafio.API.Migrations
                             Id = 94L,
                             Latitude = -30.9646m,
                             Longitude = -52.1477m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 95L,
                             Latitude = -30.9746m,
                             Longitude = -52.1577m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 96L,
                             Latitude = -30.9846m,
                             Longitude = -52.1677m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -1470,21 +1470,21 @@ namespace Desafio.API.Migrations
                             Id = 98L,
                             Latitude = -31.0046m,
                             Longitude = -52.1877m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 99L,
                             Latitude = -31.0146m,
                             Longitude = -52.1977m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 100L,
                             Latitude = -31.0246m,
                             Longitude = -52.2077m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -1498,21 +1498,21 @@ namespace Desafio.API.Migrations
                             Id = 102L,
                             Latitude = -31.0446m,
                             Longitude = -52.2277m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 103L,
                             Latitude = -31.0546m,
                             Longitude = -52.2377m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 104L,
                             Latitude = -31.0646m,
                             Longitude = -52.2477m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -1526,21 +1526,21 @@ namespace Desafio.API.Migrations
                             Id = 106L,
                             Latitude = -31.0846m,
                             Longitude = -52.2677m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 107L,
                             Latitude = -31.0946m,
                             Longitude = -52.2777m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 108L,
                             Latitude = -31.1046m,
                             Longitude = -52.2877m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -1554,21 +1554,21 @@ namespace Desafio.API.Migrations
                             Id = 110L,
                             Latitude = -31.1246m,
                             Longitude = -52.3077m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 111L,
                             Latitude = -31.1346m,
                             Longitude = -52.3177m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 112L,
                             Latitude = -31.1446m,
                             Longitude = -52.3277m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -1582,21 +1582,21 @@ namespace Desafio.API.Migrations
                             Id = 114L,
                             Latitude = -31.1646m,
                             Longitude = -52.3477m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 115L,
                             Latitude = -31.1746m,
                             Longitude = -52.3577m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 116L,
                             Latitude = -31.1846m,
                             Longitude = -52.3677m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -1610,21 +1610,21 @@ namespace Desafio.API.Migrations
                             Id = 118L,
                             Latitude = -31.2046m,
                             Longitude = -52.3877m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 119L,
                             Latitude = -31.2146m,
                             Longitude = -52.3977m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 120L,
                             Latitude = -31.2246m,
                             Longitude = -52.4077m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -1638,21 +1638,21 @@ namespace Desafio.API.Migrations
                             Id = 122L,
                             Latitude = -31.2446m,
                             Longitude = -52.4277m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 123L,
                             Latitude = -31.2546m,
                             Longitude = -52.4377m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 124L,
                             Latitude = -31.2646m,
                             Longitude = -52.4477m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -1666,21 +1666,21 @@ namespace Desafio.API.Migrations
                             Id = 126L,
                             Latitude = -31.2846m,
                             Longitude = -52.4677m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 127L,
                             Latitude = -31.2946m,
                             Longitude = -52.4777m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 128L,
                             Latitude = -31.3046m,
                             Longitude = -52.4877m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -1694,21 +1694,21 @@ namespace Desafio.API.Migrations
                             Id = 130L,
                             Latitude = -31.3246m,
                             Longitude = -52.5077m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 131L,
                             Latitude = -31.3346m,
                             Longitude = -52.5177m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 132L,
                             Latitude = -31.3446m,
                             Longitude = -52.5277m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -1722,21 +1722,21 @@ namespace Desafio.API.Migrations
                             Id = 134L,
                             Latitude = -31.3646m,
                             Longitude = -52.5477m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 135L,
                             Latitude = -31.3746m,
                             Longitude = -52.5577m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 136L,
                             Latitude = -31.3846m,
                             Longitude = -52.5677m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -1750,21 +1750,21 @@ namespace Desafio.API.Migrations
                             Id = 138L,
                             Latitude = -31.4046m,
                             Longitude = -52.5877m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 139L,
                             Latitude = -31.4146m,
                             Longitude = -52.5977m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 140L,
                             Latitude = -31.4246m,
                             Longitude = -52.6077m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -1778,21 +1778,21 @@ namespace Desafio.API.Migrations
                             Id = 142L,
                             Latitude = -31.4446m,
                             Longitude = -52.6277m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 143L,
                             Latitude = -31.4546m,
                             Longitude = -52.6377m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 144L,
                             Latitude = -31.4646m,
                             Longitude = -52.6477m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -1806,21 +1806,21 @@ namespace Desafio.API.Migrations
                             Id = 146L,
                             Latitude = -31.4846m,
                             Longitude = -52.6677m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 147L,
                             Latitude = -31.4946m,
                             Longitude = -52.6777m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 148L,
                             Latitude = -31.5046m,
                             Longitude = -52.6877m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -1834,21 +1834,21 @@ namespace Desafio.API.Migrations
                             Id = 150L,
                             Latitude = -31.5246m,
                             Longitude = -52.7077m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 151L,
                             Latitude = -31.5346m,
                             Longitude = -52.7177m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 152L,
                             Latitude = -31.5446m,
                             Longitude = -52.7277m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -1862,21 +1862,21 @@ namespace Desafio.API.Migrations
                             Id = 154L,
                             Latitude = -31.5646m,
                             Longitude = -52.7477m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 155L,
                             Latitude = -31.5746m,
                             Longitude = -52.7577m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 156L,
                             Latitude = -31.5846m,
                             Longitude = -52.7677m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -1890,21 +1890,21 @@ namespace Desafio.API.Migrations
                             Id = 158L,
                             Latitude = -31.6046m,
                             Longitude = -52.7877m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 159L,
                             Latitude = -31.6146m,
                             Longitude = -52.7977m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 160L,
                             Latitude = -31.6246m,
                             Longitude = -52.8077m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -1918,21 +1918,21 @@ namespace Desafio.API.Migrations
                             Id = 162L,
                             Latitude = -31.6446m,
                             Longitude = -52.8277m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 163L,
                             Latitude = -31.6546m,
                             Longitude = -52.8377m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 164L,
                             Latitude = -31.6646m,
                             Longitude = -52.8477m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -1946,21 +1946,21 @@ namespace Desafio.API.Migrations
                             Id = 166L,
                             Latitude = -31.6846m,
                             Longitude = -52.8677m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 167L,
                             Latitude = -31.6946m,
                             Longitude = -52.8777m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 168L,
                             Latitude = -31.7046m,
                             Longitude = -52.8877m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -1974,21 +1974,21 @@ namespace Desafio.API.Migrations
                             Id = 170L,
                             Latitude = -31.7246m,
                             Longitude = -52.9077m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 171L,
                             Latitude = -31.7346m,
                             Longitude = -52.9177m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 172L,
                             Latitude = -31.7446m,
                             Longitude = -52.9277m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -2002,21 +2002,21 @@ namespace Desafio.API.Migrations
                             Id = 174L,
                             Latitude = -31.7646m,
                             Longitude = -52.9477m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 175L,
                             Latitude = -31.7746m,
                             Longitude = -52.9577m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 176L,
                             Latitude = -31.7846m,
                             Longitude = -52.9677m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -2030,21 +2030,21 @@ namespace Desafio.API.Migrations
                             Id = 178L,
                             Latitude = -31.8046m,
                             Longitude = -52.9877m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 179L,
                             Latitude = -31.8146m,
                             Longitude = -52.9977m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 180L,
                             Latitude = -31.8246m,
                             Longitude = -53.0077m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -2058,21 +2058,21 @@ namespace Desafio.API.Migrations
                             Id = 182L,
                             Latitude = -31.8446m,
                             Longitude = -53.0277m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 183L,
                             Latitude = -31.8546m,
                             Longitude = -53.0377m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 184L,
                             Latitude = -31.8646m,
                             Longitude = -53.0477m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -2086,21 +2086,21 @@ namespace Desafio.API.Migrations
                             Id = 186L,
                             Latitude = -31.8846m,
                             Longitude = -53.0677m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 187L,
                             Latitude = -31.8946m,
                             Longitude = -53.0777m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 188L,
                             Latitude = -31.9046m,
                             Longitude = -53.0877m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -2114,21 +2114,21 @@ namespace Desafio.API.Migrations
                             Id = 190L,
                             Latitude = -31.9246m,
                             Longitude = -53.1077m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 191L,
                             Latitude = -31.9346m,
                             Longitude = -53.1177m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 192L,
                             Latitude = -31.9446m,
                             Longitude = -53.1277m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -2142,21 +2142,21 @@ namespace Desafio.API.Migrations
                             Id = 194L,
                             Latitude = -31.9646m,
                             Longitude = -53.1477m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 195L,
                             Latitude = -31.9746m,
                             Longitude = -53.1577m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 196L,
                             Latitude = -31.9846m,
                             Longitude = -53.1677m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -2170,21 +2170,21 @@ namespace Desafio.API.Migrations
                             Id = 198L,
                             Latitude = -32.0046m,
                             Longitude = -53.1877m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 199L,
                             Latitude = -32.0146m,
                             Longitude = -53.1977m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 200L,
                             Latitude = -32.0246m,
                             Longitude = -53.2077m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -2198,21 +2198,21 @@ namespace Desafio.API.Migrations
                             Id = 202L,
                             Latitude = -32.0446m,
                             Longitude = -53.2277m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 203L,
                             Latitude = -32.0546m,
                             Longitude = -53.2377m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 204L,
                             Latitude = -32.0646m,
                             Longitude = -53.2477m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -2226,21 +2226,21 @@ namespace Desafio.API.Migrations
                             Id = 206L,
                             Latitude = -32.0846m,
                             Longitude = -53.2677m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 207L,
                             Latitude = -32.0946m,
                             Longitude = -53.2777m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 208L,
                             Latitude = -32.1046m,
                             Longitude = -53.2877m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -2254,21 +2254,21 @@ namespace Desafio.API.Migrations
                             Id = 210L,
                             Latitude = -32.1246m,
                             Longitude = -53.3077m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 211L,
                             Latitude = -32.1346m,
                             Longitude = -53.3177m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 212L,
                             Latitude = -32.1446m,
                             Longitude = -53.3277m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -2282,21 +2282,21 @@ namespace Desafio.API.Migrations
                             Id = 214L,
                             Latitude = -32.1646m,
                             Longitude = -53.3477m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 215L,
                             Latitude = -32.1746m,
                             Longitude = -53.3577m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 216L,
                             Latitude = -32.1846m,
                             Longitude = -53.3677m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -2310,21 +2310,21 @@ namespace Desafio.API.Migrations
                             Id = 218L,
                             Latitude = -32.2046m,
                             Longitude = -53.3877m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 219L,
                             Latitude = -32.2146m,
                             Longitude = -53.3977m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 220L,
                             Latitude = -32.2246m,
                             Longitude = -53.4077m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -2338,21 +2338,21 @@ namespace Desafio.API.Migrations
                             Id = 222L,
                             Latitude = -32.2446m,
                             Longitude = -53.4277m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 223L,
                             Latitude = -32.2546m,
                             Longitude = -53.4377m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 224L,
                             Latitude = -32.2646m,
                             Longitude = -53.4477m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -2366,21 +2366,21 @@ namespace Desafio.API.Migrations
                             Id = 226L,
                             Latitude = -32.2846m,
                             Longitude = -53.4677m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 227L,
                             Latitude = -32.2946m,
                             Longitude = -53.4777m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 228L,
                             Latitude = -32.3046m,
                             Longitude = -53.4877m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -2394,21 +2394,21 @@ namespace Desafio.API.Migrations
                             Id = 230L,
                             Latitude = -32.3246m,
                             Longitude = -53.5077m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 231L,
                             Latitude = -32.3346m,
                             Longitude = -53.5177m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 232L,
                             Latitude = -32.3446m,
                             Longitude = -53.5277m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -2422,21 +2422,21 @@ namespace Desafio.API.Migrations
                             Id = 234L,
                             Latitude = -32.3646m,
                             Longitude = -53.5477m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 235L,
                             Latitude = -32.3746m,
                             Longitude = -53.5577m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 236L,
                             Latitude = -32.3846m,
                             Longitude = -53.5677m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -2450,21 +2450,21 @@ namespace Desafio.API.Migrations
                             Id = 238L,
                             Latitude = -32.4046m,
                             Longitude = -53.5877m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 239L,
                             Latitude = -32.4146m,
                             Longitude = -53.5977m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 240L,
                             Latitude = -32.4246m,
                             Longitude = -53.6077m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -2478,21 +2478,21 @@ namespace Desafio.API.Migrations
                             Id = 242L,
                             Latitude = -32.4446m,
                             Longitude = -53.6277m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 243L,
                             Latitude = -32.4546m,
                             Longitude = -53.6377m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 244L,
                             Latitude = -32.4646m,
                             Longitude = -53.6477m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -2506,21 +2506,21 @@ namespace Desafio.API.Migrations
                             Id = 246L,
                             Latitude = -32.4846m,
                             Longitude = -53.6677m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 247L,
                             Latitude = -32.4946m,
                             Longitude = -53.6777m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 248L,
                             Latitude = -32.5046m,
                             Longitude = -53.6877m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -2534,21 +2534,21 @@ namespace Desafio.API.Migrations
                             Id = 250L,
                             Latitude = -32.5246m,
                             Longitude = -53.7077m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 251L,
                             Latitude = -32.5346m,
                             Longitude = -53.7177m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 252L,
                             Latitude = -32.5446m,
                             Longitude = -53.7277m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -2562,21 +2562,21 @@ namespace Desafio.API.Migrations
                             Id = 254L,
                             Latitude = -32.5646m,
                             Longitude = -53.7477m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 255L,
                             Latitude = -32.5746m,
                             Longitude = -53.7577m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 256L,
                             Latitude = -32.5846m,
                             Longitude = -53.7677m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -2590,21 +2590,21 @@ namespace Desafio.API.Migrations
                             Id = 258L,
                             Latitude = -32.6046m,
                             Longitude = -53.7877m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 259L,
                             Latitude = -32.6146m,
                             Longitude = -53.7977m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 260L,
                             Latitude = -32.6246m,
                             Longitude = -53.8077m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -2618,21 +2618,21 @@ namespace Desafio.API.Migrations
                             Id = 302L,
                             Latitude = -32.6446m,
                             Longitude = -53.8277m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 303L,
                             Latitude = -32.6546m,
                             Longitude = -53.8377m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 304L,
                             Latitude = -32.6646m,
                             Longitude = -53.8477m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -2646,21 +2646,21 @@ namespace Desafio.API.Migrations
                             Id = 306L,
                             Latitude = -32.6846m,
                             Longitude = -53.8677m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 307L,
                             Latitude = -32.6946m,
                             Longitude = -53.8777m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 308L,
                             Latitude = -32.7046m,
                             Longitude = -53.8877m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -2674,21 +2674,21 @@ namespace Desafio.API.Migrations
                             Id = 310L,
                             Latitude = -32.7246m,
                             Longitude = -53.9077m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 311L,
                             Latitude = -32.7346m,
                             Longitude = -53.9177m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 312L,
                             Latitude = -32.7446m,
                             Longitude = -53.9277m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -2702,21 +2702,21 @@ namespace Desafio.API.Migrations
                             Id = 314L,
                             Latitude = -32.7646m,
                             Longitude = -53.9477m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 315L,
                             Latitude = -32.7746m,
                             Longitude = -53.9577m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 316L,
                             Latitude = -32.7846m,
                             Longitude = -53.9677m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -2730,21 +2730,21 @@ namespace Desafio.API.Migrations
                             Id = 318L,
                             Latitude = -32.8046m,
                             Longitude = -53.9877m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 319L,
                             Latitude = -32.8146m,
                             Longitude = -53.9977m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 320L,
                             Latitude = -32.8246m,
                             Longitude = -54.0077m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -2758,21 +2758,21 @@ namespace Desafio.API.Migrations
                             Id = 322L,
                             Latitude = -32.8446m,
                             Longitude = -54.0277m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 323L,
                             Latitude = -32.8546m,
                             Longitude = -54.0377m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 324L,
                             Latitude = -32.8646m,
                             Longitude = -54.0477m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -2786,21 +2786,21 @@ namespace Desafio.API.Migrations
                             Id = 326L,
                             Latitude = -32.8846m,
                             Longitude = -54.0677m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 327L,
                             Latitude = -32.8946m,
                             Longitude = -54.0777m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 328L,
                             Latitude = -32.9046m,
                             Longitude = -54.0877m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -2814,21 +2814,21 @@ namespace Desafio.API.Migrations
                             Id = 330L,
                             Latitude = -32.9246m,
                             Longitude = -54.1077m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 331L,
                             Latitude = -32.9346m,
                             Longitude = -54.1177m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 332L,
                             Latitude = -32.9446m,
                             Longitude = -54.1277m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -2842,21 +2842,21 @@ namespace Desafio.API.Migrations
                             Id = 334L,
                             Latitude = -32.9646m,
                             Longitude = -54.1477m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 335L,
                             Latitude = -32.9746m,
                             Longitude = -54.1577m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 336L,
                             Latitude = -32.9846m,
                             Longitude = -54.1677m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -2870,21 +2870,21 @@ namespace Desafio.API.Migrations
                             Id = 338L,
                             Latitude = -33.0046m,
                             Longitude = -54.1877m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 339L,
                             Latitude = -33.0146m,
                             Longitude = -54.1977m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 340L,
                             Latitude = -33.0246m,
                             Longitude = -54.2077m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -2898,21 +2898,21 @@ namespace Desafio.API.Migrations
                             Id = 342L,
                             Latitude = -33.0446m,
                             Longitude = -54.2277m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 343L,
                             Latitude = -33.0546m,
                             Longitude = -54.2377m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 344L,
                             Latitude = -33.0646m,
                             Longitude = -54.2477m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -2926,21 +2926,21 @@ namespace Desafio.API.Migrations
                             Id = 346L,
                             Latitude = -33.0846m,
                             Longitude = -54.2677m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 347L,
                             Latitude = -33.0946m,
                             Longitude = -54.2777m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 348L,
                             Latitude = -33.1046m,
                             Longitude = -54.2877m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -2954,21 +2954,21 @@ namespace Desafio.API.Migrations
                             Id = 350L,
                             Latitude = -33.1246m,
                             Longitude = -54.3077m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 351L,
                             Latitude = -33.1346m,
                             Longitude = -54.3177m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 352L,
                             Latitude = -33.1446m,
                             Longitude = -54.3277m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -2982,21 +2982,21 @@ namespace Desafio.API.Migrations
                             Id = 354L,
                             Latitude = -33.1646m,
                             Longitude = -54.3477m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 355L,
                             Latitude = -33.1746m,
                             Longitude = -54.3577m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 356L,
                             Latitude = -33.1846m,
                             Longitude = -54.3677m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -3010,21 +3010,21 @@ namespace Desafio.API.Migrations
                             Id = 358L,
                             Latitude = -33.2046m,
                             Longitude = -54.3877m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 359L,
                             Latitude = -33.2146m,
                             Longitude = -54.3977m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 360L,
                             Latitude = -33.2246m,
                             Longitude = -54.4077m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -3038,21 +3038,21 @@ namespace Desafio.API.Migrations
                             Id = 402L,
                             Latitude = -33.2446m,
                             Longitude = -54.4277m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 403L,
                             Latitude = -33.2546m,
                             Longitude = -54.4377m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 404L,
                             Latitude = -33.2646m,
                             Longitude = -54.4477m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -3066,21 +3066,21 @@ namespace Desafio.API.Migrations
                             Id = 406L,
                             Latitude = -33.2846m,
                             Longitude = -54.4677m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 407L,
                             Latitude = -33.2946m,
                             Longitude = -54.4777m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 408L,
                             Latitude = -33.3046m,
                             Longitude = -54.4877m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -3094,21 +3094,21 @@ namespace Desafio.API.Migrations
                             Id = 410L,
                             Latitude = -33.3246m,
                             Longitude = -54.5077m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 411L,
                             Latitude = -33.3346m,
                             Longitude = -54.5177m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 412L,
                             Latitude = -33.3446m,
                             Longitude = -54.5277m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -3122,21 +3122,21 @@ namespace Desafio.API.Migrations
                             Id = 414L,
                             Latitude = -33.3646m,
                             Longitude = -54.5477m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 415L,
                             Latitude = -33.3746m,
                             Longitude = -54.5577m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 416L,
                             Latitude = -33.3846m,
                             Longitude = -54.5677m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -3150,21 +3150,21 @@ namespace Desafio.API.Migrations
                             Id = 418L,
                             Latitude = -33.4046m,
                             Longitude = -54.5877m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 419L,
                             Latitude = -33.4146m,
                             Longitude = -54.5977m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 420L,
                             Latitude = -33.4246m,
                             Longitude = -54.6077m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -3178,21 +3178,21 @@ namespace Desafio.API.Migrations
                             Id = 422L,
                             Latitude = -33.4446m,
                             Longitude = -54.6277m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 423L,
                             Latitude = -33.4546m,
                             Longitude = -54.6377m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 424L,
                             Latitude = -33.4646m,
                             Longitude = -54.6477m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -3206,21 +3206,21 @@ namespace Desafio.API.Migrations
                             Id = 426L,
                             Latitude = -33.4846m,
                             Longitude = -54.6677m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 427L,
                             Latitude = -33.4946m,
                             Longitude = -54.6777m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 428L,
                             Latitude = -33.5046m,
                             Longitude = -54.6877m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -3234,21 +3234,21 @@ namespace Desafio.API.Migrations
                             Id = 430L,
                             Latitude = -33.5246m,
                             Longitude = -54.7077m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 431L,
                             Latitude = -33.5346m,
                             Longitude = -54.7177m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 432L,
                             Latitude = -33.5446m,
                             Longitude = -54.7277m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -3262,21 +3262,21 @@ namespace Desafio.API.Migrations
                             Id = 434L,
                             Latitude = -33.5646m,
                             Longitude = -54.7477m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 435L,
                             Latitude = -33.5746m,
                             Longitude = -54.7577m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 436L,
                             Latitude = -33.5846m,
                             Longitude = -54.7677m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -3290,21 +3290,21 @@ namespace Desafio.API.Migrations
                             Id = 438L,
                             Latitude = -33.6046m,
                             Longitude = -54.7877m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 439L,
                             Latitude = -33.6146m,
                             Longitude = -54.7977m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 440L,
                             Latitude = -33.6246m,
                             Longitude = -54.8077m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -3318,21 +3318,21 @@ namespace Desafio.API.Migrations
                             Id = 442L,
                             Latitude = -33.6446m,
                             Longitude = -54.8277m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 443L,
                             Latitude = -33.6546m,
                             Longitude = -54.8377m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 444L,
                             Latitude = -33.6646m,
                             Longitude = -54.8477m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -3346,21 +3346,21 @@ namespace Desafio.API.Migrations
                             Id = 446L,
                             Latitude = -33.6846m,
                             Longitude = -54.8677m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 447L,
                             Latitude = -33.6946m,
                             Longitude = -54.8777m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 448L,
                             Latitude = -33.7046m,
                             Longitude = -54.8877m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -3374,21 +3374,21 @@ namespace Desafio.API.Migrations
                             Id = 450L,
                             Latitude = -33.7246m,
                             Longitude = -54.9077m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 451L,
                             Latitude = -33.7346m,
                             Longitude = -54.9177m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 452L,
                             Latitude = -33.7446m,
                             Longitude = -54.9277m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -3402,21 +3402,21 @@ namespace Desafio.API.Migrations
                             Id = 454L,
                             Latitude = -33.7646m,
                             Longitude = -54.9477m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 455L,
                             Latitude = -33.7746m,
                             Longitude = -54.9577m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 456L,
                             Latitude = -33.7846m,
                             Longitude = -54.9677m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -3430,21 +3430,21 @@ namespace Desafio.API.Migrations
                             Id = 458L,
                             Latitude = -33.8046m,
                             Longitude = -54.9877m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 459L,
                             Latitude = -33.8146m,
                             Longitude = -54.9977m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 460L,
                             Latitude = -33.8246m,
                             Longitude = -55.0077m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -3458,21 +3458,21 @@ namespace Desafio.API.Migrations
                             Id = 462L,
                             Latitude = -33.8446m,
                             Longitude = -55.0277m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 463L,
                             Latitude = -33.8546m,
                             Longitude = -55.0377m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 464L,
                             Latitude = -33.8646m,
                             Longitude = -55.0477m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -3486,21 +3486,21 @@ namespace Desafio.API.Migrations
                             Id = 466L,
                             Latitude = -33.8846m,
                             Longitude = -55.0677m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 467L,
                             Latitude = -33.8946m,
                             Longitude = -55.0777m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 468L,
                             Latitude = -33.9046m,
                             Longitude = -55.0877m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -3514,21 +3514,21 @@ namespace Desafio.API.Migrations
                             Id = 470L,
                             Latitude = -33.9246m,
                             Longitude = -55.1077m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 471L,
                             Latitude = -33.9346m,
                             Longitude = -55.1177m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 472L,
                             Latitude = -33.9446m,
                             Longitude = -55.1277m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -3542,21 +3542,21 @@ namespace Desafio.API.Migrations
                             Id = 474L,
                             Latitude = -33.9646m,
                             Longitude = -55.1477m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 475L,
                             Latitude = -33.9746m,
                             Longitude = -55.1577m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 476L,
                             Latitude = -33.9846m,
                             Longitude = -55.1677m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -3570,21 +3570,21 @@ namespace Desafio.API.Migrations
                             Id = 478L,
                             Latitude = -34.0046m,
                             Longitude = -55.1877m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 479L,
                             Latitude = -34.0146m,
                             Longitude = -55.1977m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 480L,
                             Latitude = -34.0246m,
                             Longitude = -55.2077m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -3598,21 +3598,21 @@ namespace Desafio.API.Migrations
                             Id = 482L,
                             Latitude = -34.0446m,
                             Longitude = -55.2277m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 483L,
                             Latitude = -34.0546m,
                             Longitude = -55.2377m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 484L,
                             Latitude = -34.0646m,
                             Longitude = -55.2477m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -3626,21 +3626,21 @@ namespace Desafio.API.Migrations
                             Id = 486L,
                             Latitude = -34.0846m,
                             Longitude = -55.2677m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 487L,
                             Latitude = -34.0946m,
                             Longitude = -55.2777m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 488L,
                             Latitude = -34.1046m,
                             Longitude = -55.2877m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -3654,21 +3654,21 @@ namespace Desafio.API.Migrations
                             Id = 490L,
                             Latitude = -34.1246m,
                             Longitude = -55.3077m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 491L,
                             Latitude = -34.1346m,
                             Longitude = -55.3177m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 492L,
                             Latitude = -34.1446m,
                             Longitude = -55.3277m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -3682,21 +3682,21 @@ namespace Desafio.API.Migrations
                             Id = 494L,
                             Latitude = -34.1646m,
                             Longitude = -55.3477m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 495L,
                             Latitude = -34.1746m,
                             Longitude = -55.3577m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 496L,
                             Latitude = -34.1846m,
                             Longitude = -55.3677m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -3710,21 +3710,21 @@ namespace Desafio.API.Migrations
                             Id = 498L,
                             Latitude = -34.2046m,
                             Longitude = -55.3877m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 499L,
                             Latitude = -34.2146m,
                             Longitude = -55.3977m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 500L,
                             Latitude = -34.2246m,
                             Longitude = -55.4077m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -3738,21 +3738,21 @@ namespace Desafio.API.Migrations
                             Id = 502L,
                             Latitude = -34.2446m,
                             Longitude = -55.4277m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 503L,
                             Latitude = -34.2546m,
                             Longitude = -55.4377m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 504L,
                             Latitude = -34.2646m,
                             Longitude = -55.4477m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -3766,21 +3766,21 @@ namespace Desafio.API.Migrations
                             Id = 506L,
                             Latitude = -34.2846m,
                             Longitude = -55.4677m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 507L,
                             Latitude = -34.2946m,
                             Longitude = -55.4777m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 508L,
                             Latitude = -34.3046m,
                             Longitude = -55.4877m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -3794,21 +3794,21 @@ namespace Desafio.API.Migrations
                             Id = 510L,
                             Latitude = -34.3246m,
                             Longitude = -55.5077m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 511L,
                             Latitude = -34.3346m,
                             Longitude = -55.5177m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 512L,
                             Latitude = -34.3446m,
                             Longitude = -55.5277m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -3822,21 +3822,21 @@ namespace Desafio.API.Migrations
                             Id = 514L,
                             Latitude = -34.3646m,
                             Longitude = -55.5477m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 515L,
                             Latitude = -34.3746m,
                             Longitude = -55.5577m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 516L,
                             Latitude = -34.3846m,
                             Longitude = -55.5677m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -3850,21 +3850,21 @@ namespace Desafio.API.Migrations
                             Id = 518L,
                             Latitude = -34.4046m,
                             Longitude = -55.5877m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 519L,
                             Latitude = -34.4146m,
                             Longitude = -55.5977m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 520L,
                             Latitude = -34.4246m,
                             Longitude = -55.6077m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -3878,21 +3878,21 @@ namespace Desafio.API.Migrations
                             Id = 522L,
                             Latitude = -34.4446m,
                             Longitude = -55.6277m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 523L,
                             Latitude = -34.4546m,
                             Longitude = -55.6377m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 524L,
                             Latitude = -34.4646m,
                             Longitude = -55.6477m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -3906,21 +3906,21 @@ namespace Desafio.API.Migrations
                             Id = 526L,
                             Latitude = -34.4846m,
                             Longitude = -55.6677m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 527L,
                             Latitude = -34.4946m,
                             Longitude = -55.6777m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 528L,
                             Latitude = -34.5046m,
                             Longitude = -55.6877m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -3934,21 +3934,21 @@ namespace Desafio.API.Migrations
                             Id = 530L,
                             Latitude = -34.5246m,
                             Longitude = -55.7077m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 531L,
                             Latitude = -34.5346m,
                             Longitude = -55.7177m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 532L,
                             Latitude = -34.5446m,
                             Longitude = -55.7277m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -3962,21 +3962,21 @@ namespace Desafio.API.Migrations
                             Id = 534L,
                             Latitude = -34.5646m,
                             Longitude = -55.7477m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 535L,
                             Latitude = -34.5746m,
                             Longitude = -55.7577m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 536L,
                             Latitude = -34.5846m,
                             Longitude = -55.7677m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -3990,21 +3990,21 @@ namespace Desafio.API.Migrations
                             Id = 538L,
                             Latitude = -34.6046m,
                             Longitude = -55.7877m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 539L,
                             Latitude = -34.6146m,
                             Longitude = -55.7977m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 540L,
                             Latitude = -34.6246m,
                             Longitude = -55.8077m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -4018,21 +4018,21 @@ namespace Desafio.API.Migrations
                             Id = 542L,
                             Latitude = -34.6446m,
                             Longitude = -55.8277m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 543L,
                             Latitude = -34.6546m,
                             Longitude = -55.8377m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 544L,
                             Latitude = -34.6646m,
                             Longitude = -55.8477m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -4046,21 +4046,21 @@ namespace Desafio.API.Migrations
                             Id = 546L,
                             Latitude = -34.6846m,
                             Longitude = -55.8677m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 547L,
                             Latitude = -34.6946m,
                             Longitude = -55.8777m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 548L,
                             Latitude = -34.7046m,
                             Longitude = -55.8877m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -4074,21 +4074,21 @@ namespace Desafio.API.Migrations
                             Id = 550L,
                             Latitude = -34.7246m,
                             Longitude = -55.9077m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 551L,
                             Latitude = -34.7346m,
                             Longitude = -55.9177m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 552L,
                             Latitude = -34.7446m,
                             Longitude = -55.9277m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -4102,21 +4102,21 @@ namespace Desafio.API.Migrations
                             Id = 554L,
                             Latitude = -34.7646m,
                             Longitude = -55.9477m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 555L,
                             Latitude = -34.7746m,
                             Longitude = -55.9577m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 556L,
                             Latitude = -34.7846m,
                             Longitude = -55.9677m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -4130,21 +4130,21 @@ namespace Desafio.API.Migrations
                             Id = 558L,
                             Latitude = -34.8046m,
                             Longitude = -55.9877m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 559L,
                             Latitude = -34.8146m,
                             Longitude = -55.9977m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 560L,
                             Latitude = -34.8246m,
                             Longitude = -56.0077m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -4158,21 +4158,21 @@ namespace Desafio.API.Migrations
                             Id = 562L,
                             Latitude = -34.8446m,
                             Longitude = -56.0277m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 563L,
                             Latitude = -34.8546m,
                             Longitude = -56.0377m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 564L,
                             Latitude = -34.8646m,
                             Longitude = -56.0477m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -4186,21 +4186,21 @@ namespace Desafio.API.Migrations
                             Id = 566L,
                             Latitude = -34.8846m,
                             Longitude = -56.0677m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 567L,
                             Latitude = -34.8946m,
                             Longitude = -56.0777m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 568L,
                             Latitude = -34.9046m,
                             Longitude = -56.0877m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -4214,21 +4214,21 @@ namespace Desafio.API.Migrations
                             Id = 570L,
                             Latitude = -34.9246m,
                             Longitude = -56.1077m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 571L,
                             Latitude = -34.9346m,
                             Longitude = -56.1177m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 572L,
                             Latitude = -34.9446m,
                             Longitude = -56.1277m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -4242,21 +4242,21 @@ namespace Desafio.API.Migrations
                             Id = 574L,
                             Latitude = -34.9646m,
                             Longitude = -56.1477m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 575L,
                             Latitude = -34.9746m,
                             Longitude = -56.1577m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 576L,
                             Latitude = -34.9846m,
                             Longitude = -56.1677m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -4270,21 +4270,21 @@ namespace Desafio.API.Migrations
                             Id = 578L,
                             Latitude = -35.0046m,
                             Longitude = -56.1877m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 579L,
                             Latitude = -35.0146m,
                             Longitude = -56.1977m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 580L,
                             Latitude = -35.0246m,
                             Longitude = -56.2077m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -4298,21 +4298,21 @@ namespace Desafio.API.Migrations
                             Id = 582L,
                             Latitude = -35.0446m,
                             Longitude = -56.2277m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 583L,
                             Latitude = -35.0546m,
                             Longitude = -56.2377m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 584L,
                             Latitude = -35.0646m,
                             Longitude = -56.2477m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -4326,21 +4326,21 @@ namespace Desafio.API.Migrations
                             Id = 586L,
                             Latitude = -35.0846m,
                             Longitude = -56.2677m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 587L,
                             Latitude = -35.0946m,
                             Longitude = -56.2777m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 588L,
                             Latitude = -35.1046m,
                             Longitude = -56.2877m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -4354,21 +4354,21 @@ namespace Desafio.API.Migrations
                             Id = 590L,
                             Latitude = -35.1246m,
                             Longitude = -56.3077m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 591L,
                             Latitude = -35.1346m,
                             Longitude = -56.3177m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 592L,
                             Latitude = -35.1446m,
                             Longitude = -56.3277m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -4382,21 +4382,21 @@ namespace Desafio.API.Migrations
                             Id = 594L,
                             Latitude = -35.1646m,
                             Longitude = -56.3477m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 595L,
                             Latitude = -35.1746m,
                             Longitude = -56.3577m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 596L,
                             Latitude = -35.1846m,
                             Longitude = -56.3677m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         },
                         new
                         {
@@ -4410,21 +4410,21 @@ namespace Desafio.API.Migrations
                             Id = 598L,
                             Latitude = -35.2046m,
                             Longitude = -56.3877m,
-                            StatusPedidoId = 2
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 599L,
                             Latitude = -35.2146m,
                             Longitude = -56.3977m,
-                            StatusPedidoId = 3
+                            StatusPedidoId = 1
                         },
                         new
                         {
                             Id = 600L,
                             Latitude = -35.2246m,
                             Longitude = -56.4077m,
-                            StatusPedidoId = 4
+                            StatusPedidoId = 1
                         });
                 });
 
