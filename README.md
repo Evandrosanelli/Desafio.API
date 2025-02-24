@@ -33,7 +33,7 @@ Controllers e/ou endpoints
     ![image](https://github.com/user-attachments/assets/637e2031-24f8-44ae-82a6-5ada8bf490a2)
     Criação, listagem e deleção de possiveis status para os drones
 
-  -StatusPedidoController
+  - StatusPedidoController
     ![image](https://github.com/user-attachments/assets/2b35f468-de3a-461d-b1d3-aa2fe9aba916)
     Criação, listagem e deleção de possiveis status para os pedidos
 
@@ -45,7 +45,7 @@ Controllers e/ou endpoints
     ![image](https://github.com/user-attachments/assets/cb8ea159-65ab-46d6-9c2c-d8a2447050e0)
     Criação, listagem e atualização dos pedidos
 
-  -EntregaController
+  - EntregaController
     ![image](https://github.com/user-attachments/assets/e0d72d37-192a-4868-a37e-e949c1c1fcba)
     Alocar os drones para realizar a entrega dos pedidos 
     Listar entregas em andamento
